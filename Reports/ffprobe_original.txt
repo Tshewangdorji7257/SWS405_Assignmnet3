@@ -1,0 +1,163 @@
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Working/video_original.mov':
+  Metadata:
+    major_brand     : qt  
+    minor_version   : 512
+    compatible_brands: qt  
+    com.apple.quicktime.location.ISO6709: +27.4728+089.6390+2330.000/
+    creation_time   : 2026-09-03T10:22:11.000000Z;2026-09-03T10:22:11Z
+    com.apple.quicktime.make: Apple
+    com.apple.quicktime.model: iPhone 15
+    com.apple.quicktime.software: 17.6
+    com.apple.quicktime.creationdate: 2026-09-03T16:22:11+0600
+  Duration: 00:00:20.00, start: 0.000000, bitrate: 4192 kb/s
+  Stream #0:0[0x1]: Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 4054 kb/s, 30 fps, 30 tbr, 15360 tbn (default)
+    Metadata:
+      creation_time   : 2026-09-03T10:22:11.000000Z
+      handler_name    : Core Media Video
+      vendor_id       : FFMP
+      encoder         : H.264
+  Stream #0:1[0x2]: Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, mono, fltp, 128 kb/s (default)
+    Metadata:
+      creation_time   : 2026-09-03T10:22:11.000000Z
+      handler_name    : Core Media Audio
+      vendor_id       : [0][0][0][0]
+[STREAM]
+index=0
+codec_name=h264
+codec_long_name=H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+profile=High
+codec_type=video
+codec_tag_string=avc1
+codec_tag=0x31637661
+mime_codec_string=avc1.64001f
+width=1280
+height=720
+coded_width=1280
+coded_height=720
+has_b_frames=2
+sample_aspect_ratio=N/A
+display_aspect_ratio=N/A
+pix_fmt=yuv420p
+level=31
+color_range=unknown
+color_space=unknown
+color_transfer=unknown
+color_primaries=unknown
+chroma_location=left
+field_order=progressive
+is_avc=true
+nal_length_size=4
+id=0x1
+r_frame_rate=30/1
+avg_frame_rate=30/1
+time_base=1/15360
+start_pts=0
+start_time=0.000000
+duration_ts=307200
+duration=20.000000
+bit_rate=4054136
+max_bit_rate=N/A
+bits_per_raw_sample=8
+nb_frames=600
+nb_read_frames=N/A
+nb_read_packets=N/A
+extradata_size=46
+DISPOSITION:default=1
+DISPOSITION:dub=0
+DISPOSITION:original=0
+DISPOSITION:comment=0
+DISPOSITION:lyrics=0
+DISPOSITION:karaoke=0
+DISPOSITION:forced=0
+DISPOSITION:hearing_impaired=0
+DISPOSITION:visual_impaired=0
+DISPOSITION:clean_effects=0
+DISPOSITION:attached_pic=0
+DISPOSITION:timed_thumbnails=0
+DISPOSITION:non_diegetic=0
+DISPOSITION:captions=0
+DISPOSITION:descriptions=0
+DISPOSITION:metadata=0
+DISPOSITION:dependent=0
+DISPOSITION:still_image=0
+DISPOSITION:multilayer=0
+TAG:creation_time=2026-09-03T10:22:11.000000Z
+TAG:handler_name=Core Media Video
+TAG:vendor_id=FFMP
+TAG:encoder=H.264
+[/STREAM]
+[STREAM]
+index=1
+codec_name=aac
+codec_long_name=AAC (Advanced Audio Coding)
+profile=LC
+codec_type=audio
+codec_tag_string=mp4a
+codec_tag=0x6134706d
+mime_codec_string=mp4a.40.2
+sample_fmt=fltp
+sample_rate=48000
+channels=1
+channel_layout=mono
+bits_per_sample=0
+initial_padding=1024
+id=0x2
+r_frame_rate=0/0
+avg_frame_rate=0/0
+time_base=1/48000
+start_pts=0
+start_time=0.000000
+duration_ts=960000
+duration=20.000000
+bit_rate=128860
+max_bit_rate=N/A
+bits_per_raw_sample=N/A
+nb_frames=939
+nb_read_frames=N/A
+nb_read_packets=N/A
+extradata_size=5
+DISPOSITION:default=1
+DISPOSITION:dub=0
+DISPOSITION:original=0
+DISPOSITION:comment=0
+DISPOSITION:lyrics=0
+DISPOSITION:karaoke=0
+DISPOSITION:forced=0
+DISPOSITION:hearing_impaired=0
+DISPOSITION:visual_impaired=0
+DISPOSITION:clean_effects=0
+DISPOSITION:attached_pic=0
+DISPOSITION:timed_thumbnails=0
+DISPOSITION:non_diegetic=0
+DISPOSITION:captions=0
+DISPOSITION:descriptions=0
+DISPOSITION:metadata=0
+DISPOSITION:dependent=0
+DISPOSITION:still_image=0
+DISPOSITION:multilayer=0
+TAG:creation_time=2026-09-03T10:22:11.000000Z
+TAG:handler_name=Core Media Audio
+TAG:vendor_id=[0][0][0][0]
+[/STREAM]
+[FORMAT]
+filename=Working/video_original.mov
+nb_streams=2
+nb_programs=0
+nb_stream_groups=0
+format_name=mov,mp4,m4a,3gp,3g2,mj2
+format_long_name=QuickTime / MOV
+start_time=0.000000
+duration=20.000000
+size=10480469
+bit_rate=4192187
+probe_score=100
+TAG:major_brand=qt  
+TAG:minor_version=512
+TAG:compatible_brands=qt  
+TAG:com.apple.quicktime.location.ISO6709=+27.4728+089.6390+2330.000/
+TAG:creation_time=2026-09-03T10:22:11.000000Z;2026-09-03T10:22:11Z
+TAG:com.apple.quicktime.make=Apple
+TAG:com.apple.quicktime.model=iPhone 15
+TAG:com.apple.quicktime.software=17.6
+TAG:com.apple.quicktime.creationdate=2026-09-03T16:22:11+0600
+[/FORMAT]

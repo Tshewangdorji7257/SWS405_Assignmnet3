@@ -1,0 +1,93 @@
+[Main]          ExifTool Version Number         : 13.55
+[Main]          File Name                       : video_edited.mp4
+[Main]          Directory                       : Working
+[Main]          File Size                       : 558 kB
+[Main]          File Modification Date/Time     : 2026:11:05 02:09:44-05:00
+[Main]          File Access Date/Time           : 2026:11:05 02:10:28-05:00
+[Main]          File Inode Change Date/Time     : 2026:11:05 02:09:44-05:00
+[Main]          File Permissions                : -rw-r--r--
+[Main]          File Type                       : MP4
+[Main]          File Type Extension             : mp4
+[Main]          MIME Type                       : video/mp4
+[Main]          Major Brand                     : MP4 Base Media v1 [IS0 14496-12:2003]
+[Main]          Minor Version                   : 0.2.0
+[Main]          Compatible Brands               : isom, iso2, avc1, mp41
+[Main]          Movie Header Version            : 0
+[Main]          Create Date                     : 2026:09:05 02:41:07
+[Main]          Modify Date                     : 2026:09:05 02:41:07
+[Main]          Time Scale                      : 1000
+[Main]          Duration                        : 16.00 s
+[Main]          Preferred Rate                  : 1
+[Main]          Preferred Volume                : 100.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Preview Time                    : 0 s
+[Main]          Preview Duration                : 0 s
+[Main]          Poster Time                     : 0 s
+[Main]          Selection Time                  : 0 s
+[Main]          Selection Duration              : 0 s
+[Main]          Current Time                    : 0 s
+[Main]          Next Track ID                   : 3
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2026:09:05 02:41:07
+[Main]          Track Modify Date               : 2026:09:05 02:41:07
+[Main]          Track ID                        : 1
+[Main]          Track Duration                  : 16.00 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 0.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Image Width                     : 1280
+[Main]          Image Height                    : 720
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2026:09:05 02:41:07
+[Main]          Media Modify Date               : 2026:09:05 02:41:07
+[Main]          Media Time Scale                : 15360
+[Main]          Media Duration                  : 16.00 s
+[Main]          Media Language Code             : und
+[Main]          Handler Type                    : Video Track
+[Main]          Handler Description             : VideoHandler
+[Main]          Graphics Mode                   : srcCopy
+[Main]          Op Color                        : 0 0 0
+[Main]          Compressor ID                   : avc1
+[Main]          Source Image Width              : 1280
+[Main]          Source Image Height             : 720
+[Main]          X Resolution                    : 72
+[Main]          Y Resolution                    : 72
+[Main]          Compressor Name                 : Lavc60.31.102 libx264
+[Main]          Bit Depth                       : 24
+[Main]          Buffer Size                     : 0
+[Main]          Max Bitrate                     : 173034
+[Main]          Average Bitrate                 : 173034
+[Main]          Video Frame Rate                : 30
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2026:09:05 02:41:07
+[Main]          Track Modify Date               : 2026:09:05 02:41:07
+[Main]          Track ID                        : 2
+[Main]          Track Duration                  : 16.00 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 100.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2026:09:05 02:41:07
+[Main]          Media Modify Date               : 2026:09:05 02:41:07
+[Main]          Media Time Scale                : 48000
+[Main]          Media Duration                  : 16.02 s
+[Main]          Media Language Code             : und
+[Main]          Handler Type                    : Audio Track
+[Main]          Handler Description             : SoundHandler
+[Main]          Balance                         : 0
+[Main]          Audio Format                    : mp4a
+[Main]          Audio Channels                  : 1
+[Main]          Audio Bits Per Sample           : 16
+[Main]          Audio Sample Rate               : 48000
+[Main]          Buffer Size                     : 0
+[Main]          Max Bitrate                     : 96179
+[Main]          Average Bitrate                 : 96179
+[Main]          Handler Type                    : Metadata
+[Main]          Handler Vendor ID               : Apple
+[Main]          Encoder                         : Lavf60.16.100
+[Main]          Media Data Size                 : 538684
+[Main]          Media Data Offset               : 19007
+[Main]          Image Size                      : 1280x720
+[Main]          Megapixels                      : 0.922
+[Main]          Avg Bitrate                     : 269 kbps
+[Main]          Rotation                        : 0

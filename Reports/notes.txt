@@ -1,0 +1,17 @@
+Examiner: Tshewang Dorji
+Start: Thu Nov  5 02:11:41 AM EST 2026
+ffmpeg 9.0.2-3 | SoX_ng 14.7.1.2 | ExifTool 13.55 | MediaInfo v26.05
+Intake hashes: all 4 OK
+Working copies verified identical (audio_original.m4a c5cbb2da...2ce7)
+--- AUDIO (Thu Nov  5 02:23:23 AM EST 2026) ---
+Questioned WAV: Lavf60.16.100, 44100 Hz, 7.024 s vs original AAC 48000 Hz, 16.617 s
+Join at 4.44 s: noise -49 dBFS -> -39 dBFS; 50 Hz hum increases; no content above 16 kHz (MP3 origin)
+Enhancement (copy only): double bandreject notches at 50/100/150 Hz -> Audio/questioned_enhanced.wav
+--- VIDEO (Thu Nov  5 02:46:52 AM EST 2026) ---
+video_edited.mp4: 480 frames / 16.0 s vs original 600 frames / 20.0 s
+Edited: created 2026-09-05, Lavf60.16.100 / libx264, no device or GPS data
+I-frames: 20 (original) vs 2 (edited); framemd5 identical frames: 0
+Cut between frames 270 and 271: counter 0270 -> 0391, clock 16:22:19 -> 16:22:24
+Audio events (card beeps, footsteps, door) missing from edited soundtrack
+--- FINAL HASH CHECK (Thu Nov  5 02:46:52 AM EST 2026) ---
+All 4 exhibits OK. Evidence unchanged.

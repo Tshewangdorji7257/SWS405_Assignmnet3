@@ -1,0 +1,108 @@
+[Main]          ExifTool Version Number         : 13.55
+[Main]          File Name                       : video_original.mov
+[Main]          Directory                       : Working
+[Main]          File Size                       : 10 MB
+[Main]          File Modification Date/Time     : 2026:11:05 02:09:44-05:00
+[Main]          File Access Date/Time           : 2026:11:05 02:10:28-05:00
+[Main]          File Inode Change Date/Time     : 2026:11:05 02:09:44-05:00
+[Main]          File Permissions                : -rw-r--r--
+[Main]          File Type                       : MOV
+[Main]          File Type Extension             : mov
+[Main]          MIME Type                       : video/quicktime
+[Main]          Major Brand                     : Apple QuickTime (.MOV/QT)
+[Main]          Minor Version                   : 0.2.0
+[Main]          Compatible Brands               : qt
+[Main]          Media Data Size                 : 10457835
+[Main]          Media Data Offset               : 36
+[Main]          Movie Header Version            : 0
+[Main]          Create Date                     : 2026:09:03 10:22:11
+[Main]          Modify Date                     : 2026:09:03 10:22:11
+[Main]          Time Scale                      : 1000
+[Main]          Duration                        : 20.00 s
+[Main]          Preferred Rate                  : 1
+[Main]          Preferred Volume                : 100.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Preview Time                    : 0 s
+[Main]          Preview Duration                : 0 s
+[Main]          Poster Time                     : 0 s
+[Main]          Selection Time                  : 0 s
+[Main]          Selection Duration              : 0 s
+[Main]          Current Time                    : 0 s
+[Main]          Next Track ID                   : 3
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2026:09:03 10:22:11
+[Main]          Track Modify Date               : 2026:09:03 10:22:11
+[Main]          Track ID                        : 1
+[Main]          Track Duration                  : 20.00 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 0.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Image Width                     : 1280
+[Main]          Image Height                    : 720
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2026:09:03 10:22:11
+[Main]          Media Modify Date               : 2026:09:03 10:22:11
+[Main]          Media Time Scale                : 15360
+[Main]          Media Duration                  : 20.00 s
+[Main]          Media Language Code             : Unknown (32767)
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : Video Track
+[Main]          Handler Description             : Core Media Video
+[Main]          Graphics Mode                   : srcCopy
+[Main]          Op Color                        : 0 0 0
+[Main]          Handler Class                   : Data Handler
+[Main]          Handler Type                    : URL
+[Main]          Handler Description             : DataHandler
+[Main]          Compressor ID                   : avc1
+[Main]          Vendor ID                       : FFmpeg
+[Main]          Source Image Width              : 1280
+[Main]          Source Image Height             : 720
+[Main]          X Resolution                    : 72
+[Main]          Y Resolution                    : 72
+[Main]          Compressor Name                 : H.264
+[Main]          Bit Depth                       : 24
+[Main]          Video Frame Rate                : 30
+[Main]          Track Header Version            : 0
+[Main]          Track Create Date               : 2026:09:03 10:22:11
+[Main]          Track Modify Date               : 2026:09:03 10:22:11
+[Main]          Track ID                        : 2
+[Main]          Track Duration                  : 20.00 s
+[Main]          Track Layer                     : 0
+[Main]          Track Volume                    : 100.00%
+[Main]          Matrix Structure                : 1 0 0 0 1 0 0 0 1
+[Main]          Media Header Version            : 0
+[Main]          Media Create Date               : 2026:09:03 10:22:11
+[Main]          Media Modify Date               : 2026:09:03 10:22:11
+[Main]          Media Time Scale                : 48000
+[Main]          Media Duration                  : 20.02 s
+[Main]          Media Language Code             : Unknown (32767)
+[Main]          Handler Class                   : Media Handler
+[Main]          Handler Type                    : Audio Track
+[Main]          Handler Description             : Core Media Audio
+[Main]          Balance                         : 0
+[Main]          Handler Class                   : Data Handler
+[Main]          Handler Type                    : URL
+[Main]          Handler Description             : DataHandler
+[Main]          Audio Format                    : mp4a
+[Main]          Audio Channels                  : 1
+[Main]          Audio Bits Per Sample           : 16
+[Main]          Audio Sample Rate               : 48000
+[Main]          Purchase File Format            : mp4a
+[Main]          Layout Flags                    : Mono
+[Main]          Audio Channels                  : 1
+[Main]          Handler Type                    : Metadata Tags
+[Main]          GPS Coordinates                 : 27 deg 28' 22.08" N, 89 deg 38' 20.40" E, 2330 m Above Sea Level
+[Main]          Creation Time                   : 2026:09:03 10:22:11Z
+[Main]          Make                            : Apple
+[Main]          Model                           : iPhone 15
+[Main]          Software                        : 17.6
+[Main]          Creation Date                   : 2026:09:03 16:22:11+06:00
+[Main]          Image Size                      : 1280x720
+[Main]          Megapixels                      : 0.922
+[Main]          Avg Bitrate                     : 4.18 Mbps
+[Main]          GPS Altitude                    : 2330 m
+[Main]          GPS Altitude Ref                : Above Sea Level
+[Main]          GPS Latitude                    : 27 deg 28' 22.08" N
+[Main]          GPS Longitude                   : 89 deg 38' 20.40" E
+[Main]          Rotation                        : 0
+[Main]          GPS Position                    : 27 deg 28' 22.08" N, 89 deg 38' 20.40" E
